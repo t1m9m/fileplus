@@ -1,0 +1,13 @@
+@font-face {
+  	font-family: 'Infinity';
+  	font-style: normal;
+  	font-weight: 400;
+  	src: url(../../assets/frontend/font/Quicksand-Regular.otf);
+}
+
+@font-face {
+  	font-family: 'Julius';
+  	font-style: normal;
+  	font-weight: 400;
+  	src: url(../../assets/frontend/font/Julius.ttf);
+}

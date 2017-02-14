@@ -1,0 +1,60 @@
+#menu
+{
+	background-color: black; 
+	text-align: center;
+	opacity: 0.5;
+}
+
+.menu-icon 
+{
+	font-size: 202%;
+	margin-top: 10%;
+	color: white;
+}
+
+.nav>li>a:hover 
+{
+  	background-color: transparent;
+}
+
+.nav>li>a:focus
+{
+	outline: 0;
+	background-color: transparent;
+}
+
+#screen
+{
+	padding: 3%;
+}
+
+
+#fileTable,
+#folderTable,
+#userTable,
+#groupTable,
+#fileInFolderTable,
+#userInGroupTable
+{
+	width: 99%;
+}
+
+
+.function-icon
+{
+	font-size: 222%;
+	color: black;
+}
+
+.option-icon
+{
+	font-size: 99%;
+	padding: 0 3%;
+	color: black;
+}
+
+th
+{
+	text-align:center;
+	color: white;
+}
